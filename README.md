@@ -37,3 +37,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavit2003&amp;stroke=ffffff&amp;background=1c1917&amp;ring=3382ed&amp;fire=3382ed&amp;currStreakNum=ffffff&amp;currStreakLabel=3382ed&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" alt="jahnavit2003" /></p>
 
 
+<p dir="auto"><a href="http://www.github.com/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=jahnaviT2003&amp;bg_color=1c1917&amp;color=ffffff&amp;line=3382ed&amp;point=ffffff&amp;area_color=1c1917&amp;area=true&amp;hide_border=true&amp;custom_title=GitHub%20Commits%20Graph" alt="Jahnavi's GitHub Commits Graph"  style="max-width: 100%;"></a></p>
+
